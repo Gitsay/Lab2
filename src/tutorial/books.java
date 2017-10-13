@@ -275,7 +275,7 @@ public class books extends ActionSupport {
 		if(value==null) {
 			value = "ex3";
 		}
-		//System.out.println(value);
+		System.out.println(value);
 		if(value.equals("ex2")) {
 			try{
 				HttpServletRequest request1 = ServletActionContext.getRequest(); 

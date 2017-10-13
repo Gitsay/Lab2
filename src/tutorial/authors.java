@@ -42,7 +42,7 @@ public class authors extends ActionSupport{
 		int a = 0;
 		//System.out.println(name.length());
 		//System.out.println(name.length());
-		//System.out.println(name);
+		System.out.println(name);
 		List<String>list = new ArrayList<String>();
 		ActionContext.getContext().put("key", "操作错误，请重新操作！"); 
 		HttpServletRequest request = ServletActionContext.getRequest(); 

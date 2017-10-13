@@ -64,5 +64,6 @@ a:visited {color: black}
 <br>
 <p id="black"><s:a href="#" onclick="history.back()">点击此处返回上一级</s:a></p>
 <p><s:a href="index.jsp">点击返回登录界面！</s:a></p>
+<br>
 </body>
 </html>
